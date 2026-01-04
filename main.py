@@ -4,6 +4,3 @@ app = FastAPI(title="API Escolas")
 def home():
     return {"mensagem": "Sistema de Escolas online"}
 
-Role para baixo
-Em Commit message, escreva:
-adiciona main.py com FastAPI
